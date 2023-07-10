@@ -41,7 +41,7 @@ ul {
 .selecaoDePersonagens .personagens .titulo {
     text-align: center;
     letter-spacing: 0.3px;
-    border-bottom: 2px solid #47f4ff;
+    border-bottom: 2px solid #d12323;
     width: 100%;
     font-size: 20px;
     font-weight: bold;
@@ -73,11 +73,11 @@ ul {
 .listaDePersonagens .personagem img {
     width: 200px;
     height: 200px;
-    border-bottom: 2px solid #47f4ff;
+    border-bottom: 2px solid #d12323;
 }
 
 .listaDePersonagens .personagem.selecionado {
-    box-shadow: 0px 0px 24px 5px #0271f7;
+    box-shadow: 0px 0px 24px 5px #d12323;
 }
 
 .personagemSelecionado {
@@ -91,7 +91,7 @@ ul {
 }
 
 .personagemSelecionado .nomePersonagem {
-    border-bottom: 2px solid #47f4ff;
+    border-bottom: 2px solid #d12323;
     text-transform: uppercase;
 }
 
